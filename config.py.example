@@ -1,0 +1,9 @@
+# names are the keys, and keys are the values...
+API_TOKEN = {
+    "username" : "user api key",
+}
+
+# base directory for saving the stuffs
+
+# the default below will just save it in a subdirectory of the program dir
+_BASE_PATH = "userdata" 
